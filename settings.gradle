@@ -1,0 +1,2 @@
+rootProject.name = "Preferences DataStore"
+include ':app'
